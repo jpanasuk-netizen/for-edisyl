@@ -8,6 +8,9 @@ Application packet for **Forward-Deployed AI Data Engineer** at [edisyl](https:/
 
 Edisyl builds the knowledge layer for enterprise AI (Forge, Lattice, Stratum). This site answers their brief line-by-line with receipts from twenty years of forward-deployed data work — Informatica parachute closer, 19/20 crisis accounts, then a measured local agent lab.
 
+**FDE playbook:** [github.io/for-edisyl/playbook.html](https://jpanasuk-netizen.github.io/for-edisyl/playbook.html) — IPS documentation, performance, coaching framed for Forge / Lattice / Stratum.  
+**Loyalty talk:** [github.io/for-edisyl/loyalty.html](https://jpanasuk-netizen.github.io/for-edisyl/loyalty.html) — the Dawn Foods IPS talk, customized for this FDE role.
+
 Not a clone of the product. Their editorial structure (italic emphasis, numbered beliefs, two-pack knowledge, three-component architecture) used as the frame for an application.
 
 ## Files

@@ -9,7 +9,7 @@ You are hiring someone to embed in client environments and make Forge, Lattice, 
 
 That is my career, named twenty years late.
 
-Informatica used me as the parachute. I recovered 19 of 20 crisis accounts. Dawn Foods warehouse loads went from eight hours to under one. Mercedes’ longest workflows moved +200%, and the playbook stayed with the team. BNY Mellon’s Grid/HA close sat north of $2.3 million with the CEO in the room. MF Global got one of the first Grid/HA plus DR environments in the world. I have sat in insurance, banking, wealth, healthcare, CPG, and fab — West Bend Mutual, Navy Federal, Ameriprise, Prime Therapeutics, PepsiCo, Micron.
+Informatica used me as the parachute. I recovered 19 of 20 crisis accounts. Dawn Foods warehouse loads went from eight hours to under one. Mercedes’ longest workflows moved +200%, and the playbook stayed with the team. BNY Mellon’s Grid/HA close sat north of $2.3 million with the CEO in the room. MF Global got one of the first Grid/HA plus DR environments in the world. I have sat in insurance, banking, wealth, healthcare, CPG, and fab — West Bend Mutual, Navy Federal, Ameriprise, Prime Therapeutics, PepsiCo, Micron, Farmers, Northwestern Mutual, Waddell & Reed, Mercedes-Benz Financial. The written operating path is public: jpanasuk-netizen.github.io/the-closer/playbook.html
 
 You came out of blockchain data infrastructure. I did not. I will not pretend I resolved 700 million wallets. What I have resolved is the other mess: CRMs, AS/400 journals, SOAP, Teradata, Redshift, and the unofficial definition of a customer that lives in one director’s head. That is the environment your enterprise motion now has to survive.
 
